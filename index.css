@@ -1,8 +1,14 @@
 body, html{
 	margin: 0px;
 	padding: 0px;
+	width: 100%;
 }
 
 h1{
 	margin: auto;
+	text-align: center;
+}
+
+p{
+	text-align: justify;
 }
